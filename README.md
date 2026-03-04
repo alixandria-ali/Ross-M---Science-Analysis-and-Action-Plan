@@ -1,311 +1,468 @@
-# Ross M. - Grade 8 Science Performance Analysis
+<table>
+<tr>
+<td width="250" valign="top">
 
-> **Comprehensive analysis and personalized study plan to achieve 90% on the next test**
+## 📚 Menu
+
+### Main
+- [🏠 Home](#)
+- [📊 Overview](#overview)
+- [🎯 Getting Started](#getting-started)
+
+### Study Resources
+- [📚 All Lessons](./lessons/00_LESSONS_INDEX.md)
+- [📈 Study Plan](#study-plan)
+- [✅ Track Progress](#progress-tracker)
+
+### Analysis Reports
+- [📄 Summary](./ROSS_ANALYSIS_SUMMARY.md)
+- [📋 Test Results CSV](./Ross'%20Test%20Results%20G8%20Science%20for%20Analysis%20-%20Sheet1.csv)
+- [📊 Detailed Report](./Ross_Performance_Analysis_Report.txt)
+- [🔍 Skill Analysis](./Additional_Weak_Spots_Identified.txt)
+
+### Lessons by Priority
+
+**🔴 High Priority**
+- [Heat & Thermal Energy](./lessons/01_Heat_and_Thermal_Energy.md)
+- [Newton's Laws & Forces](./lessons/02_Newtons_Laws_and_Forces.md)
+- [EM Spectrum & Waves](./lessons/03_Electromagnetic_Spectrum_and_Waves.md)
+
+**🟡 Medium Priority**
+- [Light Interactions](./lessons/04_Light_Interactions.md)
+- [Earth-Sun-Moon System](./lessons/07_Earth_Sun_Moon_System.md)
+- [Energy Conversions](./lessons/08_Energy_Conversions.md)
+- [Speed Calculations](./lessons/09_Speed_Calculations.md)
+
+**🟢 Review**
+- [Genetics & DNA](./lessons/05_Genetics_and_DNA.md)
+- [Electric Charges](./lessons/06_Electric_Charges.md)
+- [Antibiotic Resistance](./lessons/10_Antibiotic_Resistance.md)
 
 ---
 
-## 📖 Quick Navigation
+### Quick Stats
 
-**Main Resources**
-- [Overview](#overview)
-- [Study Plan](#recommended-study-plan)
-- [Priority Topics](#priority-topics)
-- [All Lessons](./lessons/00_LESSONS_INDEX.md)
-- [Progress Tracker](#track-your-progress)
+```
+Tests: 7
+Questions: 40
+Current: 75-80%
+Target: 90%
+Timeline: 2-3 weeks
+```
 
-**Analysis Reports**
-- [Complete Analysis Summary](./ROSS_ANALYSIS_SUMMARY.md)
-- [Detailed Performance Report](./Ross_Performance_Analysis_Report.txt)
-- [Test Results with Insights (CSV)](./Ross'%20Test%20Results%20G8%20Science%20for%20Analysis%20-%20Sheet1.csv)
-- [Additional Skill Analysis](./Additional_Weak_Spots_Identified.txt)
+```
+Resources:
+• 10 Lessons
+• 88 Questions
+• 23 Videos
+```
 
-**Lessons by Priority**
-- [🔴 High Priority](#high-priority-lessons) - Heat, Newton's Laws, EM Spectrum
-- [🟡 Medium Priority](#medium-priority-lessons) - Light, Earth Science, Energy, Speed
-- [🟢 Review](#review-lessons) - Genetics, Charges, Resistance
+</td>
+<td valign="top">
+
+# Ross M. - Grade 8 Science Analysis
+
+> Comprehensive performance analysis and personalized study plan to achieve 90%
 
 ---
 
 ## Overview
 
-**Current Status**
-- Tests Analyzed: 8.10 through 8.16 (7 tests total)
-- Questions to Review: 40
-- Current Performance: Approximately 75-80%
-- Target Score: 90%
-- Study Timeline: 2-3 weeks
+<table>
+<tr>
+<td width="50%">
 
-**Performance Trend**
+### 📊 Test Performance
 
-| Test | Questions to Review | Observation |
-|------|---------------------|-------------|
-| 8.10 | 11 | Starting baseline |
-| 8.11 | 6 | Strong improvement ↗ |
-| 8.12 | 5 | Continued progress ↗ |
-| 8.13 | 4 | Excellent momentum ↗ |
-| 8.14 | 4 | Maintaining gains |
-| 8.15 | 4 | Consistent performance |
-| 8.16 | 6 | Refinement opportunity |
+| Test | Questions to Review |
+|------|---------------------|
+| 8.10 | 11 → Baseline |
+| 8.11 | 6 → ⬆️ Improved |
+| 8.12 | 5 → ⬆️ Progress |
+| 8.13 | 4 → ⬆️ Strong |
+| 8.14 | 4 → Consistent |
+| 8.15 | 4 → Consistent |
+| 8.16 | 6 → Refine |
 
-**Key Insight:** Performance improved significantly from Test 8.10 to 8.13, demonstrating that focused study produces measurable results.
+</td>
+<td width="50%">
 
----
+### 🎯 Goal
 
-## Available Resources
+**Current Performance**
+- Approximately 75-80%
 
-This repository contains:
+**Target Score**
+- **90%** on next test
 
-**Learning Materials**
-- 10 comprehensive lesson modules
-- 88 practice questions with detailed explanations
-- 23 curated video tutorials
-- Quick reference cards for each topic
+**Timeline**
+- 2-3 weeks of focused study
 
-**Analysis Documents**
-- Performance analysis by topic
-- Specific insights for each incorrect answer (see CSV file, Column D)
-- Week-by-week study schedule
-- Skill development recommendations
+**Strategy**
+- Master top 3 topics (+10%)
+- Complete all practice (+5%)
+- Full practice tests (+3%)
 
----
+</td>
+</tr>
+</table>
 
-## Priority Topics
-
-### High Priority Lessons
-
-These three topics represent 50% of all review opportunities. Focus here first.
-
-**1. Heat & Thermal Energy** (8 questions - 20%)
-- [Start Lesson](./lessons/01_Heat_and_Thermal_Energy.md)
-- Topics: Heat flow direction, energy absorption, evaporative cooling, transfer rates
-- Includes: 8 practice questions, 3 video tutorials
-
-**2. Newton's Laws & Forces** (7 questions - 17.5%)
-- [Start Lesson](./lessons/02_Newtons_Laws_and_Forces.md)
-- Topics: F=ma, Newton's Third Law, mass-acceleration relationships, force interactions
-- Includes: 10 practice questions, 3 video tutorials
-
-**3. Electromagnetic Spectrum & Waves** (5 questions - 12.5%)
-- [Start Lesson](./lessons/03_Electromagnetic_Spectrum_and_Waves.md)
-- Topics: EM spectrum order, wavelength-energy relationships, amplitude
-- Includes: 10 practice questions, 3 video tutorials
-
-### Medium Priority Lessons
-
-**4. Light Interactions** (5 questions - 12.5%)
-- [Start Lesson](./lessons/04_Light_Interactions.md)
-- Topics: Reflection, transmission, refraction, absorption
-
-**5. Earth-Sun-Moon System** (4 questions - 10%)
-- [Start Lesson](./lessons/07_Earth_Sun_Moon_System.md)
-- Topics: Seasons, Earth's tilt, moon phases
-
-**6. Energy Conversions** (Multiple applications)
-- [Start Lesson](./lessons/08_Energy_Conversions.md)
-- Topics: Potential to kinetic energy, energy conservation
-
-**7. Speed Calculations & Data Analysis** (Multiple applications)
-- [Start Lesson](./lessons/09_Speed_Calculations.md)
-- Topics: Speed = distance/time, comparing speeds, data interpretation
-
-### Review Lessons
-
-**8. Genetics & DNA** (3 questions - 7.5%)
-- [Start Lesson](./lessons/05_Genetics_and_DNA.md)
-- Topics: DNA to protein, mutations, genotype notation
-
-**9. Electric Charges** (3 questions - 7.5%)
-- [Start Lesson](./lessons/06_Electric_Charges.md)
-- Topics: Like charges repel, opposite charges attract
-
-**10. Antibiotic Resistance** (1 question)
-- [Start Lesson](./lessons/10_Antibiotic_Resistance.md)
-- Topics: Natural selection, resistance percentages
-
-[View Complete Lessons Index →](./lessons/00_LESSONS_INDEX.md)
-
----
-
-## Recommended Study Plan
-
-### Week 1: Foundation Building
-
-**Days 1-2: Heat & Thermal Energy**
-- Watch 3 video tutorials
-- Read complete lesson
-- Complete 8 practice questions
-- Create flashcards from Quick Reference Card
-- Daily time: 60-90 minutes
-
-**Days 3-4: Newton's Laws & Forces**
-- Watch 3 video tutorials
-- Read complete lesson
-- Complete 10 practice questions
-- Practice F=ma calculations
-- Daily time: 60-90 minutes
-
-**Days 5-6: Electromagnetic Spectrum & Waves**
-- Watch 3 video tutorials
-- Read complete lesson
-- Complete 10 practice questions
-- Memorize spectrum order
-- Daily time: 60-90 minutes
-
-**Day 7: Light Interactions + Review**
-- Complete Light Interactions lesson
-- Review all Week 1 topics
-- Self-quiz on key concepts
-- Identify any remaining gaps
-
-### Week 2: Comprehensive Coverage
-
-**Days 8-9:** Complete Genetics & DNA, Electric Charges lessons
-
-**Days 10-11:** Complete Earth-Sun-Moon, Energy Conversions lessons
-
-**Days 12-13:** Complete Speed Calculations, Antibiotic Resistance lessons
-
-**Day 14:** Full practice test under timed conditions
-
-### Daily Time Commitment
-
-- Video tutorials: 15-20 minutes
-- Lesson reading: 20-25 minutes
-- Practice questions: 20-30 minutes
-- Review and notes: 10-15 minutes
-- **Total: 60-90 minutes per day**
-
----
-
-## Track Your Progress
-
-### Lesson Completion Checklist
-
-| Completed | Lesson | Practice Score |
-|:---------:|--------|----------------|
-| ☐ | [1. Heat & Thermal Energy](./lessons/01_Heat_and_Thermal_Energy.md) | ___/8 |
-| ☐ | [2. Newton's Laws & Forces](./lessons/02_Newtons_Laws_and_Forces.md) | ___/10 |
-| ☐ | [3. EM Spectrum & Waves](./lessons/03_Electromagnetic_Spectrum_and_Waves.md) | ___/10 |
-| ☐ | [4. Light Interactions](./lessons/04_Light_Interactions.md) | ___/10 |
-| ☐ | [5. Genetics & DNA](./lessons/05_Genetics_and_DNA.md) | ___/10 |
-| ☐ | [6. Electric Charges](./lessons/06_Electric_Charges.md) | ___/10 |
-| ☐ | [7. Earth-Sun-Moon System](./lessons/07_Earth_Sun_Moon_System.md) | ___/10 |
-| ☐ | [8. Energy Conversions](./lessons/08_Energy_Conversions.md) | ___/10 |
-| ☐ | [9. Speed Calculations](./lessons/09_Speed_Calculations.md) | ___/10 |
-| ☐ | [10. Antibiotic Resistance](./lessons/10_Antibiotic_Resistance.md) | ___/10 |
-| | **Total Progress** | **___/88** |
-
-**Goal:** Score 80% or higher on practice questions before taking the full test.
-
----
-
-## Path to 90%
-
-**Current Performance:** ~75-80%
-**Target:** 90%
-**Gap to Close:** 10-15 percentage points
-
-**Strategy:**
-1. Master Top 3 Priority Topics → +10 points
-2. Complete All Practice Questions → +3-5 points
-3. Take Full Practice Tests → +2-3 points
-
-**Timeline:** 2-3 weeks of consistent daily study
+> **Key Insight:** Performance improved significantly from Test 8.10 (11 questions) to 8.13 (4 questions), demonstrating that focused study produces measurable results.
 
 ---
 
 ## Getting Started
 
-### Three Simple Steps
+<table>
+<tr>
+<td align="center" width="33%">
 
-**Step 1: Read the Analysis** (5 minutes)
-- Review [ROSS_ANALYSIS_SUMMARY.md](./ROSS_ANALYSIS_SUMMARY.md)
-- Understand strengths and opportunities
+### 1️⃣ Review Analysis
+**5 minutes**
 
-**Step 2: Start Learning** (60-90 minutes daily)
-- Begin with [Lesson 1: Heat & Thermal Energy](./lessons/01_Heat_and_Thermal_Energy.md)
-- Watch videos, read content, practice questions
+Read the [Complete Analysis](./ROSS_ANALYSIS_SUMMARY.md)
 
-**Step 3: Track Progress** (Ongoing)
-- Use checklists in each lesson
-- Mark completed topics
-- Monitor practice question scores
+Understand your opportunities
+
+</td>
+<td align="center" width="33%">
+
+### 2️⃣ Start Learning
+**60-90 min/day**
+
+Begin [Lesson 1](./lessons/01_Heat_and_Thermal_Energy.md)
+
+Watch videos + practice
+
+</td>
+<td align="center" width="34%">
+
+### 3️⃣ Track Progress
+**Ongoing**
+
+Use the checklist below
+
+Mark completed lessons
+
+</td>
+</tr>
+</table>
 
 ---
 
-## What's Included in Each Lesson
+## Priority Topics
 
-Every lesson module includes:
+### 🔴 High Priority (50% of opportunities)
+
+<table>
+<tr>
+<th width="40%">Topic</th>
+<th width="15%">Questions</th>
+<th width="15%">Videos</th>
+<th width="30%">Action</th>
+</tr>
+<tr>
+<td><strong>Heat & Thermal Energy</strong><br>Heat flow, energy absorption, evaporation</td>
+<td align="center">8<br>(20%)</td>
+<td align="center">3</td>
+<td><a href="./lessons/01_Heat_and_Thermal_Energy.md">→ Start Lesson 1</a></td>
+</tr>
+<tr>
+<td><strong>Newton's Laws & Forces</strong><br>F=ma, equal & opposite forces</td>
+<td align="center">7<br>(17.5%)</td>
+<td align="center">3</td>
+<td><a href="./lessons/02_Newtons_Laws_and_Forces.md">→ Start Lesson 2</a></td>
+</tr>
+<tr>
+<td><strong>EM Spectrum & Waves</strong><br>Radio to Gamma, wavelength, energy</td>
+<td align="center">5<br>(12.5%)</td>
+<td align="center">3</td>
+<td><a href="./lessons/03_Electromagnetic_Spectrum_and_Waves.md">→ Start Lesson 3</a></td>
+</tr>
+</table>
+
+### 🟡 Medium Priority
+
+<table>
+<tr>
+<th width="40%">Topic</th>
+<th width="15%">Questions</th>
+<th width="15%">Videos</th>
+<th width="30%">Action</th>
+</tr>
+<tr>
+<td><strong>Light Interactions</strong></td>
+<td align="center">5 (12.5%)</td>
+<td align="center">3</td>
+<td><a href="./lessons/04_Light_Interactions.md">→ Start Lesson</a></td>
+</tr>
+<tr>
+<td><strong>Earth-Sun-Moon System</strong></td>
+<td align="center">4 (10%)</td>
+<td align="center">2</td>
+<td><a href="./lessons/07_Earth_Sun_Moon_System.md">→ Start Lesson</a></td>
+</tr>
+<tr>
+<td><strong>Energy Conversions</strong></td>
+<td align="center">Multiple</td>
+<td align="center">1</td>
+<td><a href="./lessons/08_Energy_Conversions.md">→ Start Lesson</a></td>
+</tr>
+<tr>
+<td><strong>Speed & Data Analysis</strong></td>
+<td align="center">Multiple</td>
+<td align="center">1</td>
+<td><a href="./lessons/09_Speed_Calculations.md">→ Start Lesson</a></td>
+</tr>
+</table>
+
+### 🟢 Review Topics
+
+<table>
+<tr>
+<th width="40%">Topic</th>
+<th width="15%">Questions</th>
+<th width="15%">Videos</th>
+<th width="30%">Action</th>
+</tr>
+<tr>
+<td><strong>Genetics & DNA</strong></td>
+<td align="center">3 (7.5%)</td>
+<td align="center">5</td>
+<td><a href="./lessons/05_Genetics_and_DNA.md">→ Start Lesson</a></td>
+</tr>
+<tr>
+<td><strong>Electric Charges</strong></td>
+<td align="center">3 (7.5%)</td>
+<td align="center">1</td>
+<td><a href="./lessons/06_Electric_Charges.md">→ Start Lesson</a></td>
+</tr>
+<tr>
+<td><strong>Antibiotic Resistance</strong></td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td><a href="./lessons/10_Antibiotic_Resistance.md">→ Start Lesson</a></td>
+</tr>
+</table>
+
+---
+
+## Study Plan
+
+### Week 1: Foundation Building
+
+<table>
+<tr>
+<th width="20%">Days</th>
+<th width="30%">Lesson</th>
+<th width="50%">Activities</th>
+</tr>
+<tr>
+<td><strong>Days 1-2</strong></td>
+<td><a href="./lessons/01_Heat_and_Thermal_Energy.md">Heat & Thermal Energy</a></td>
+<td>
+• Watch 3 videos (15-20 min)<br>
+• Read lesson (20-25 min)<br>
+• Complete 8 questions (20 min)<br>
+• Create flashcards (10 min)
+</td>
+</tr>
+<tr>
+<td><strong>Days 3-4</strong></td>
+<td><a href="./lessons/02_Newtons_Laws_and_Forces.md">Newton's Laws & Forces</a></td>
+<td>
+• Watch 3 videos<br>
+• Read lesson + notes<br>
+• Complete 10 questions<br>
+• Practice F=ma problems
+</td>
+</tr>
+<tr>
+<td><strong>Days 5-6</strong></td>
+<td><a href="./lessons/03_Electromagnetic_Spectrum_and_Waves.md">EM Spectrum & Waves</a></td>
+<td>
+• Watch 3 videos<br>
+• Read lesson<br>
+• Complete 10 questions<br>
+• Memorize spectrum order
+</td>
+</tr>
+<tr>
+<td><strong>Day 7</strong></td>
+<td><a href="./lessons/04_Light_Interactions.md">Light Interactions</a> + Review</td>
+<td>
+• Complete lesson<br>
+• Review Week 1 topics<br>
+• Self-quiz key concepts
+</td>
+</tr>
+</table>
+
+### Week 2: Comprehensive Coverage
+
+<table>
+<tr>
+<th width="20%">Days</th>
+<th width="80%">Focus</th>
+</tr>
+<tr>
+<td><strong>Days 8-9</strong></td>
+<td>Complete <a href="./lessons/05_Genetics_and_DNA.md">Genetics & DNA</a> and <a href="./lessons/06_Electric_Charges.md">Electric Charges</a></td>
+</tr>
+<tr>
+<td><strong>Days 10-11</strong></td>
+<td>Complete <a href="./lessons/07_Earth_Sun_Moon_System.md">Earth-Sun-Moon</a> and <a href="./lessons/08_Energy_Conversions.md">Energy Conversions</a></td>
+</tr>
+<tr>
+<td><strong>Days 12-13</strong></td>
+<td>Complete <a href="./lessons/09_Speed_Calculations.md">Speed Calculations</a> and <a href="./lessons/10_Antibiotic_Resistance.md">Antibiotic Resistance</a></td>
+</tr>
+<tr>
+<td><strong>Day 14</strong></td>
+<td><strong>Full Practice Test</strong> • Timed conditions • Review all questions • Identify gaps</td>
+</tr>
+</table>
+
+**Daily Time:** 60-90 minutes (15-20 min videos + 20-25 min reading + 20-30 min practice + 10-15 min review)
+
+---
+
+## Progress Tracker
+
+### Lesson Completion Checklist
+
+| ✓ | Lesson | Score | Status |
+|---|--------|-------|--------|
+| ☐ | [1. Heat & Thermal Energy](./lessons/01_Heat_and_Thermal_Energy.md) | ___/8 | Not Started |
+| ☐ | [2. Newton's Laws & Forces](./lessons/02_Newtons_Laws_and_Forces.md) | ___/10 | Not Started |
+| ☐ | [3. EM Spectrum & Waves](./lessons/03_Electromagnetic_Spectrum_and_Waves.md) | ___/10 | Not Started |
+| ☐ | [4. Light Interactions](./lessons/04_Light_Interactions.md) | ___/10 | Not Started |
+| ☐ | [5. Genetics & DNA](./lessons/05_Genetics_and_DNA.md) | ___/10 | Not Started |
+| ☐ | [6. Electric Charges](./lessons/06_Electric_Charges.md) | ___/10 | Not Started |
+| ☐ | [7. Earth-Sun-Moon System](./lessons/07_Earth_Sun_Moon_System.md) | ___/10 | Not Started |
+| ☐ | [8. Energy Conversions](./lessons/08_Energy_Conversions.md) | ___/10 | Not Started |
+| ☐ | [9. Speed Calculations](./lessons/09_Speed_Calculations.md) | ___/10 | Not Started |
+| ☐ | [10. Antibiotic Resistance](./lessons/10_Antibiotic_Resistance.md) | ___/10 | Not Started |
+| | **TOTAL** | **___/88** | **___%** |
+
+**Target:** Score 80%+ on practice questions before taking the full test.
+
+---
+
+## What's Included
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 In Every Lesson
 
 **Educational Content**
-- Key concepts explained clearly
-- Common mistakes to avoid (based on actual test patterns)
-- Visual diagrams and examples
-- Real-world applications
-- Quick reference cards
+- ✅ Key concepts explained
+- ✅ Common mistakes to avoid
+- ✅ Real-world examples
+- ✅ Quick reference cards
 
 **Practice & Assessment**
-- Multiple choice practice questions
-- Detailed answer explanations
-- Video tutorial links
-- Self-check quizzes
+- ✅ MCQ practice questions
+- ✅ Detailed explanations
+- ✅ Video tutorials embedded
+- ✅ Self-check quizzes
+
+</td>
+<td width="50%">
+
+### 📊 Resource Summary
+
+| Resource | Count |
+|----------|-------|
+| Lesson Modules | 10 |
+| Practice Questions | 88 |
+| Video Tutorials | 23 |
+| Analysis Reports | 4 |
+| Quick Reference Cards | 10 |
+
+**Video Sources**
+- Khan Academy
+- Educational channels
+- Trusted instructors
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Study Tips
 
-**Effective Study Habits**
-- Take notes while watching videos
-- Explain concepts out loud
-- Complete ALL practice questions
-- Review both correct and incorrect answers
-- Create flashcards for key concepts
-- Study consistently (daily is better than cramming)
+<table>
+<tr>
+<td width="50%">
 
-**Avoid These Mistakes**
-- Passive reading without practice
-- Skipping video tutorials
+### ✅ Effective Strategies
+
+- Watch videos before reading
+- Take notes actively
+- Complete ALL practice questions
+- Review correct AND incorrect answers
+- Create flashcards
+- Study daily (consistency matters)
+- Explain concepts out loud
+- Use Quick Reference Cards
+
+</td>
+<td width="50%">
+
+### ⚠️ Avoid These Mistakes
+
+- Passive reading only
+- Skipping videos
 - Rushing through lessons
-- Not reviewing answer explanations
-- Studying random topics without following the priority order
+- Only reviewing wrong answers
+- Studying randomly
+- Cramming at the last minute
+- Not tracking progress
+- Skipping practice questions
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Key Success Factors
+## Path to 90%
 
-**To achieve 90%, focus on:**
-1. **Prioritization:** Complete high priority topics in Week 1
-2. **Understanding:** Focus on WHY, not just memorization
-3. **Practice:** Complete all 88 practice questions
-4. **Consistency:** Study daily following the schedule
-5. **Review:** Go back to difficult concepts multiple times
+```
+Current: 75-80%
+    ↓
+Master Top 3 Topics → +10 points
+    ↓
+Complete 88 Practice Questions → +3-5 points
+    ↓
+Full Practice Tests → +2-3 points
+    ↓
+Target: 90% ✓
+```
+
+**Timeline:** 2-3 weeks with daily 60-90 minute study sessions
 
 ---
 
 ## Additional Resources
 
-**CSV File Analysis**
-- Open [Ross' Test Results G8 Science for Analysis - Sheet1.csv](./Ross'%20Test%20Results%20G8%20Science%20for%20Analysis%20-%20Sheet1.csv)
+**Detailed Analysis**
+- [ROSS_ANALYSIS_SUMMARY.md](./ROSS_ANALYSIS_SUMMARY.md) - Complete action plan
+- [Ross_Performance_Analysis_Report.txt](./Ross_Performance_Analysis_Report.txt) - Topic breakdowns
+- [Additional_Weak_Spots_Identified.txt](./Additional_Weak_Spots_Identified.txt) - Skill analysis
+
+**Test Results**
+- [Ross' Test Results CSV](./Ross'%20Test%20Results%20G8%20Science%20for%20Analysis%20-%20Sheet1.csv)
 - Column D contains specific insights for each question
-- Use this to understand exact concepts that need work
-
-**Detailed Reports**
-- [Ross_Performance_Analysis_Report.txt](./Ross_Performance_Analysis_Report.txt) - Topic-by-topic breakdown
-- [Additional_Weak_Spots_Identified.txt](./Additional_Weak_Spots_Identified.txt) - Skill-based analysis
 
 ---
 
-## Contact & Support
+<p align="center"><strong>Ready to begin? Start with <a href="./lessons/01_Heat_and_Thermal_Energy.md">Lesson 1: Heat & Thermal Energy →</a></strong></p>
 
-**Need Help?**
-- Review the [Complete Analysis Summary](./ROSS_ANALYSIS_SUMMARY.md) for detailed guidance
-- Each lesson has a self-check quiz to verify understanding
-- Track progress using the checklists provided
-
-**Feedback**
-- This analysis was completed on March 4, 2026
-- All materials are designed to support reaching the 90% goal
-
----
-
-**Ready to begin? Start with [Lesson 1: Heat & Thermal Energy](./lessons/01_Heat_and_Thermal_Energy.md) →**
+</td>
+</tr>
+</table>

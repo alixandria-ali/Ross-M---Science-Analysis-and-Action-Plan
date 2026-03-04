@@ -1,143 +1,249 @@
-# Lessons & Practice Questions
+<table>
+<tr>
+<td width="250" valign="top">
+
+## 📚 Menu
+
+### Main
+- [🏠 Home](../README.md)
+- [📚 All Lessons](#)
+- [📊 Analysis](../ROSS_ANALYSIS_SUMMARY.md)
+
+### Quick Access
+- [Study Schedule](#study-schedule)
+- [Progress Tracker](#progress-tracker)
+- [Video Resources](#video-resources)
+- [Practice Questions](#practice-questions)
+
+### High Priority 🔴
+- [1. Heat & Energy](./01_Heat_and_Thermal_Energy.md)
+- [2. Newton's Laws](./02_Newtons_Laws_and_Forces.md)
+- [3. EM Spectrum](./03_Electromagnetic_Spectrum_and_Waves.md)
+
+### Medium Priority 🟡
+- [4. Light Interactions](./04_Light_Interactions.md)
+- [5. Earth-Sun-Moon](./07_Earth_Sun_Moon_System.md)
+- [6. Energy Conversions](./08_Energy_Conversions.md)
+- [7. Speed Calculations](./09_Speed_Calculations.md)
+
+### Review 🟢
+- [8. Genetics & DNA](./05_Genetics_and_DNA.md)
+- [9. Electric Charges](./06_Electric_Charges.md)
+- [10. Antibiotic Resistance](./10_Antibiotic_Resistance.md)
+
+---
+
+### Resources
+
+```
+10 Lessons
+88 Questions
+23 Videos
+```
+
+```
+Priority Distribution:
+🔴 High: 28 questions
+🟡 Medium: 40 questions
+🟢 Review: 20 questions
+```
+
+</td>
+<td valign="top">
+
+# Complete Lessons & Practice Questions
 
 > **10 comprehensive modules • 88 practice questions • 23 video tutorials**
 
 ---
 
-## 📖 Navigation
+## Lesson Overview
 
-**Main Pages**
-- [← Back to Home](../README.md)
-- [Complete Analysis](../ROSS_ANALYSIS_SUMMARY.md)
-- [Test Results CSV](../Ross'%20Test%20Results%20G8%20Science%20for%20Analysis%20-%20Sheet1.csv)
+### 🔴 High Priority Lessons (Start Here)
 
-**Lessons by Priority**
-- [High Priority (1-3)](#high-priority-lessons)
-- [Medium Priority (4-7)](#medium-priority-lessons)
-- [Review (8-10)](#review-lessons)
+**These three topics represent 50% of all review opportunities**
 
-**Resources**
-- [Study Schedule](#study-schedule)
-- [Video Summary](#video-resources)
-- [Practice Questions](#practice-questions-summary)
+<table>
+<tr>
+<th width="5%">#</th>
+<th width="35%">Lesson</th>
+<th width="15%">Questions</th>
+<th width="10%">Videos</th>
+<th width="35%">Key Topics</th>
+</tr>
+<tr>
+<td align="center"><strong>1</strong></td>
+<td><a href="./01_Heat_and_Thermal_Energy.md"><strong>Heat & Thermal Energy</strong></a></td>
+<td align="center">8<br>(20%)</td>
+<td align="center">3</td>
+<td>Heat flow, energy absorption, evaporative cooling</td>
+</tr>
+<tr>
+<td align="center"><strong>2</strong></td>
+<td><a href="./02_Newtons_Laws_and_Forces.md"><strong>Newton's Laws & Forces</strong></a></td>
+<td align="center">10<br>(17.5%)</td>
+<td align="center">3</td>
+<td>F=ma, Newton's 3rd Law, force interactions</td>
+</tr>
+<tr>
+<td align="center"><strong>3</strong></td>
+<td><a href="./03_Electromagnetic_Spectrum_and_Waves.md"><strong>EM Spectrum & Waves</strong></a></td>
+<td align="center">10<br>(12.5%)</td>
+<td align="center">3</td>
+<td>Radio to Gamma, wavelength, energy</td>
+</tr>
+</table>
 
----
+### 🟡 Medium Priority Lessons
 
-## High Priority Lessons
+<table>
+<tr>
+<th width="5%">#</th>
+<th width="35%">Lesson</th>
+<th width="15%">Questions</th>
+<th width="10%">Videos</th>
+<th width="35%">Key Topics</th>
+</tr>
+<tr>
+<td align="center"><strong>4</strong></td>
+<td><a href="./04_Light_Interactions.md"><strong>Light Interactions</strong></a></td>
+<td align="center">10<br>(12.5%)</td>
+<td align="center">3</td>
+<td>Reflection, transmission, refraction, absorption</td>
+</tr>
+<tr>
+<td align="center"><strong>5</strong></td>
+<td><a href="./07_Earth_Sun_Moon_System.md"><strong>Earth-Sun-Moon System</strong></a></td>
+<td align="center">10<br>(10%)</td>
+<td align="center">2</td>
+<td>Seasons, Earth's tilt, moon phases</td>
+</tr>
+<tr>
+<td align="center"><strong>6</strong></td>
+<td><a href="./08_Energy_Conversions.md"><strong>Energy Conversions</strong></a></td>
+<td align="center">10</td>
+<td align="center">1</td>
+<td>PE ↔ KE, conservation of energy</td>
+</tr>
+<tr>
+<td align="center"><strong>7</strong></td>
+<td><a href="./09_Speed_Calculations.md"><strong>Speed & Data Analysis</strong></a></td>
+<td align="center">10</td>
+<td align="center">1</td>
+<td>Speed = distance/time, data interpretation</td>
+</tr>
+</table>
 
-**Start with these three lessons - they represent 50% of all review opportunities**
+### 🟢 Review Lessons
 
-### Lesson 1: Heat & Thermal Energy
-- **Priority:** 🔴 High
-- **Questions:** 8 (20% of review opportunities)
-- **Videos:** 3 tutorials
-- **Topics:** Heat flow direction, energy absorption, evaporative cooling, heat transfer rates
-- [**Start Lesson →**](./01_Heat_and_Thermal_Energy.md)
-
-### Lesson 2: Newton's Laws & Forces
-- **Priority:** 🔴 High
-- **Questions:** 10 (17.5% of review opportunities)
-- **Videos:** 3 tutorials
-- **Topics:** F=ma, Newton's Third Law, mass-acceleration relationships, force interactions
-- [**Start Lesson →**](./02_Newtons_Laws_and_Forces.md)
-
-### Lesson 3: Electromagnetic Spectrum & Waves
-- **Priority:** 🔴 High
-- **Questions:** 10 (12.5% of review opportunities)
-- **Videos:** 3 tutorials
-- **Topics:** EM spectrum order (Radio to Gamma), wavelength-energy relationships, amplitude
-- [**Start Lesson →**](./03_Electromagnetic_Spectrum_and_Waves.md)
-
----
-
-## Medium Priority Lessons
-
-**Important supporting topics and critical skills**
-
-### Lesson 4: Light Interactions
-- **Priority:** 🟡 Medium
-- **Questions:** 10 (12.5% of review opportunities)
-- **Videos:** 3 tutorials
-- **Topics:** Reflection, transmission, refraction, absorption
-- [**Start Lesson →**](./04_Light_Interactions.md)
-
-### Lesson 5: Earth-Sun-Moon System
-- **Priority:** 🟡 Medium
-- **Questions:** 10 (10% of review opportunities)
-- **Videos:** 2 tutorials
-- **Topics:** Earth's tilt causes seasons, hemisphere differences, moon phases
-- [**Start Lesson →**](./07_Earth_Sun_Moon_System.md)
-
-### Lesson 6: Energy Conversions (Potential ↔ Kinetic)
-- **Priority:** 🟡 Medium
-- **Questions:** 10
-- **Videos:** 1 tutorial
-- **Topics:** PE to KE transformations, higher position = more energy, conservation
-- [**Start Lesson →**](./08_Energy_Conversions.md)
-
-### Lesson 7: Speed Calculations & Data Analysis
-- **Priority:** 🟡 Medium
-- **Questions:** 10
-- **Videos:** 1 tutorial
-- **Topics:** Speed = distance/time, comparing speeds, data interpretation
-- [**Start Lesson →**](./09_Speed_Calculations.md)
-
----
-
-## Review Lessons
-
-**Solid concepts worth reviewing**
-
-### Lesson 8: Genetics & DNA
-- **Priority:** 🟢 Review
-- **Questions:** 10 (7.5% of review opportunities)
-- **Videos:** 5 tutorials
-- **Topics:** DNA to protein, mutations, genotype notation (Aa, AA, aa)
-- [**Start Lesson →**](./05_Genetics_and_DNA.md)
-
-### Lesson 9: Electric Charges
-- **Priority:** 🟢 Review
-- **Questions:** 10 (7.5% of review opportunities)
-- **Videos:** 1 tutorial
-- **Topics:** Like charges repel, opposite charges attract, charging by friction
-- [**Start Lesson →**](./06_Electric_Charges.md)
-
-### Lesson 10: Antibiotic Resistance & Natural Selection
-- **Priority:** 🟢 Review
-- **Questions:** 10
-- **Videos:** 1 tutorial
-- **Topics:** Higher resistance % = more survivors, natural selection process
-- [**Start Lesson →**](./10_Antibiotic_Resistance.md)
+<table>
+<tr>
+<th width="5%">#</th>
+<th width="35%">Lesson</th>
+<th width="15%">Questions</th>
+<th width="10%">Videos</th>
+<th width="35%">Key Topics</th>
+</tr>
+<tr>
+<td align="center"><strong>8</strong></td>
+<td><a href="./05_Genetics_and_DNA.md"><strong>Genetics & DNA</strong></a></td>
+<td align="center">10<br>(7.5%)</td>
+<td align="center">5</td>
+<td>DNA → protein, mutations, genotypes</td>
+</tr>
+<tr>
+<td align="center"><strong>9</strong></td>
+<td><a href="./06_Electric_Charges.md"><strong>Electric Charges</strong></a></td>
+<td align="center">10<br>(7.5%)</td>
+<td align="center">1</td>
+<td>Like charges repel, opposite attract</td>
+</tr>
+<tr>
+<td align="center"><strong>10</strong></td>
+<td><a href="./10_Antibiotic_Resistance.md"><strong>Antibiotic Resistance</strong></a></td>
+<td align="center">10</td>
+<td align="center">1</td>
+<td>Natural selection, resistance %</td>
+</tr>
+</table>
 
 ---
 
 ## Study Schedule
 
-### Week 1: Foundation Building (High Priority Topics)
+### Week 1: Foundation Building (High Priority)
 
-| Days | Lesson | Activities |
-|------|--------|------------|
-| 1-2 | [Heat & Thermal Energy](./01_Heat_and_Thermal_Energy.md) | Watch 3 videos • Read lesson • Complete 8 questions • Create flashcards |
-| 3-4 | [Newton's Laws](./02_Newtons_Laws_and_Forces.md) | Watch 3 videos • Read lesson • Complete 10 questions • Practice F=ma |
-| 5-6 | [EM Spectrum](./03_Electromagnetic_Spectrum_and_Waves.md) | Watch 3 videos • Read lesson • Complete 10 questions • Memorize spectrum |
-| 7 | [Light Interactions](./04_Light_Interactions.md) + Review | Complete lesson • Review Week 1 • Self-quiz |
+<table>
+<tr>
+<th width="15%">Days</th>
+<th width="30%">Lesson</th>
+<th width="55%">Daily Activities (60-90 min)</th>
+</tr>
+<tr>
+<td><strong>Days 1-2</strong></td>
+<td><a href="./01_Heat_and_Thermal_Energy.md">Heat & Thermal Energy</a></td>
+<td>
+<strong>Watch:</strong> 3 videos (15-20 min)<br>
+<strong>Read:</strong> Complete lesson (20-25 min)<br>
+<strong>Practice:</strong> 8 questions (20 min)<br>
+<strong>Review:</strong> Create flashcards (10 min)
+</td>
+</tr>
+<tr>
+<td><strong>Days 3-4</strong></td>
+<td><a href="./02_Newtons_Laws_and_Forces.md">Newton's Laws</a></td>
+<td>
+<strong>Watch:</strong> 3 videos<br>
+<strong>Read:</strong> Lesson + notes<br>
+<strong>Practice:</strong> 10 questions<br>
+<strong>Apply:</strong> F=ma problems
+</td>
+</tr>
+<tr>
+<td><strong>Days 5-6</strong></td>
+<td><a href="./03_Electromagnetic_Spectrum_and_Waves.md">EM Spectrum</a></td>
+<td>
+<strong>Watch:</strong> 3 videos<br>
+<strong>Read:</strong> Complete lesson<br>
+<strong>Practice:</strong> 10 questions<br>
+<strong>Memorize:</strong> Spectrum order
+</td>
+</tr>
+<tr>
+<td><strong>Day 7</strong></td>
+<td><a href="./04_Light_Interactions.md">Light</a> + Review</td>
+<td>
+<strong>Complete:</strong> Light lesson<br>
+<strong>Review:</strong> Week 1 topics<br>
+<strong>Quiz:</strong> Self-assessment
+</td>
+</tr>
+</table>
 
 ### Week 2: Comprehensive Coverage
 
-| Days | Lessons | Focus |
-|------|---------|-------|
-| 8-9 | Genetics & Electric Charges | Complete both lessons |
-| 10-11 | Earth Science & Energy | Complete both lessons |
-| 12-13 | Speed & Resistance | Complete both lessons |
-| 14 | Practice Test | Full timed test • Review all questions |
-
-### Daily Time Commitment
-
-- Video tutorials: 15-20 minutes
-- Lesson reading: 20-25 minutes
-- Practice questions: 20-30 minutes
-- Review and notes: 10-15 minutes
-- **Total: 60-90 minutes per day**
+<table>
+<tr>
+<th width="15%">Days</th>
+<th width="85%">Activities</th>
+</tr>
+<tr>
+<td><strong>Days 8-9</strong></td>
+<td>Complete <a href="./05_Genetics_and_DNA.md">Genetics & DNA</a> and <a href="./06_Electric_Charges.md">Electric Charges</a> (both with videos, reading, practice)</td>
+</tr>
+<tr>
+<td><strong>Days 10-11</strong></td>
+<td>Complete <a href="./07_Earth_Sun_Moon_System.md">Earth-Sun-Moon</a> and <a href="./08_Energy_Conversions.md">Energy Conversions</a></td>
+</tr>
+<tr>
+<td><strong>Days 12-13</strong></td>
+<td>Complete <a href="./09_Speed_Calculations.md">Speed Calculations</a> and <a href="./10_Antibiotic_Resistance.md">Antibiotic Resistance</a></td>
+</tr>
+<tr>
+<td><strong>Day 14</strong></td>
+<td><strong>FULL PRACTICE TEST</strong> • Timed conditions • Review all questions (correct & incorrect) • Identify remaining gaps</td>
+</tr>
+</table>
 
 ---
 
@@ -145,129 +251,310 @@
 
 **23 curated educational videos from trusted sources**
 
-| Topic | Video Count | Estimated Duration |
-|-------|-------------|-------------------|
-| Genetics & DNA | 5 videos | ~40-50 minutes |
-| Newton's Laws | 3 videos | ~20-30 minutes |
-| Heat Transfer | 3 videos | ~20-30 minutes |
-| EM Spectrum & Waves | 3 videos | ~20-30 minutes |
-| Light Interactions | 3 videos | ~20-30 minutes |
-| Earth-Sun-Moon | 2 videos | ~15-20 minutes |
-| Other Topics | 4 videos | ~25-35 minutes |
-| **Total** | **23 videos** | **~2.5-3 hours** |
+<table>
+<tr>
+<th>Topic Area</th>
+<th>Video Count</th>
+<th>Duration</th>
+<th>Source</th>
+</tr>
+<tr>
+<td>Genetics & DNA</td>
+<td align="center">5</td>
+<td>~40-50 min</td>
+<td>Khan Academy</td>
+</tr>
+<tr>
+<td>Newton's Laws</td>
+<td align="center">3</td>
+<td>~20-30 min</td>
+<td>Khan Academy</td>
+</tr>
+<tr>
+<td>Heat Transfer</td>
+<td align="center">3</td>
+<td>~20-30 min</td>
+<td>Educational channels</td>
+</tr>
+<tr>
+<td>EM Spectrum & Waves</td>
+<td align="center">3</td>
+<td>~20-30 min</td>
+<td>Educational channels</td>
+</tr>
+<tr>
+<td>Light Interactions</td>
+<td align="center">3</td>
+<td>~20-30 min</td>
+<td>Educational channels</td>
+</tr>
+<tr>
+<td>Earth-Sun-Moon</td>
+<td align="center">2</td>
+<td>~15-20 min</td>
+<td>Educational channels</td>
+</tr>
+<tr>
+<td>Other Topics</td>
+<td align="center">4</td>
+<td>~25-35 min</td>
+<td>Mixed sources</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td align="center"><strong>23</strong></td>
+<td><strong>~2.5-3 hours</strong></td>
+<td><strong>Curated</strong></td>
+</tr>
+</table>
 
-All videos are embedded with direct links in each lesson from Khan Academy and trusted educational channels.
+> All videos are embedded with direct links in each lesson
 
 ---
 
-## Practice Questions Summary
+## Practice Questions
 
 **88 multiple choice questions with detailed explanations**
 
-| Priority | Lessons | Question Count | Features |
-|----------|---------|----------------|----------|
-| 🔴 High | Lessons 1-3 | 28 questions | Targets top 50% of opportunities |
-| 🟡 Medium | Lessons 4-7 | 40 questions | Critical skills and supporting topics |
-| 🟢 Review | Lessons 8-10 | 20 questions | Reinforce solid concepts |
-| | **Total** | **88 questions** | All with detailed explanations |
+<table>
+<tr>
+<th>Priority</th>
+<th>Lessons</th>
+<th>Questions</th>
+<th>Features</th>
+</tr>
+<tr>
+<td align="center">🔴</td>
+<td>Lessons 1-3</td>
+<td align="center">28</td>
+<td>Targets top 50% of opportunities</td>
+</tr>
+<tr>
+<td align="center">🟡</td>
+<td>Lessons 4-7</td>
+<td align="center">40</td>
+<td>Critical skills & supporting topics</td>
+</tr>
+<tr>
+<td align="center">🟢</td>
+<td>Lessons 8-10</td>
+<td align="center">20</td>
+<td>Reinforce solid concepts</td>
+</tr>
+<tr>
+<td colspan="2" align="right"><strong>Total</strong></td>
+<td align="center"><strong>88</strong></td>
+<td><strong>All with detailed explanations</strong></td>
+</tr>
+</table>
 
-**Each Question Includes:**
-- The question stem
-- 4 answer choices
-- Correct answer (expandable)
-- Detailed explanation of why it's correct
-- Common misconceptions addressed
-- Step-by-step reasoning
+### What's Included in Each Question
+
+✅ Question stem with context
+✅ 4 answer choices
+✅ Correct answer (expandable)
+✅ Detailed explanation
+✅ Why incorrect answers are wrong
+✅ Common misconceptions addressed
+
+---
+
+## Progress Tracker
+
+### Lesson Completion Checklist
+
+<table>
+<tr>
+<th width="5%">✓</th>
+<th width="5%">#</th>
+<th width="40%">Lesson</th>
+<th width="15%">Videos</th>
+<th width="15%">Practice</th>
+<th width="20%">Status</th>
+</tr>
+<tr>
+<td>☐</td>
+<td>1</td>
+<td><a href="./01_Heat_and_Thermal_Energy.md">Heat & Thermal Energy</a></td>
+<td align="center">0/3</td>
+<td align="center">___/8</td>
+<td>Not Started</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>2</td>
+<td><a href="./02_Newtons_Laws_and_Forces.md">Newton's Laws & Forces</a></td>
+<td align="center">0/3</td>
+<td align="center">___/10</td>
+<td>Not Started</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>3</td>
+<td><a href="./03_Electromagnetic_Spectrum_and_Waves.md">EM Spectrum & Waves</a></td>
+<td align="center">0/3</td>
+<td align="center">___/10</td>
+<td>Not Started</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>4</td>
+<td><a href="./04_Light_Interactions.md">Light Interactions</a></td>
+<td align="center">0/3</td>
+<td align="center">___/10</td>
+<td>Not Started</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>5</td>
+<td><a href="./07_Earth_Sun_Moon_System.md">Earth-Sun-Moon System</a></td>
+<td align="center">0/2</td>
+<td align="center">___/10</td>
+<td>Not Started</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>6</td>
+<td><a href="./08_Energy_Conversions.md">Energy Conversions</a></td>
+<td align="center">0/1</td>
+<td align="center">___/10</td>
+<td>Not Started</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>7</td>
+<td><a href="./09_Speed_Calculations.md">Speed Calculations</a></td>
+<td align="center">0/1</td>
+<td align="center">___/10</td>
+<td>Not Started</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>8</td>
+<td><a href="./05_Genetics_and_DNA.md">Genetics & DNA</a></td>
+<td align="center">0/5</td>
+<td align="center">___/10</td>
+<td>Not Started</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>9</td>
+<td><a href="./06_Electric_Charges.md">Electric Charges</a></td>
+<td align="center">0/1</td>
+<td align="center">___/10</td>
+<td>Not Started</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>10</td>
+<td><a href="./10_Antibiotic_Resistance.md">Antibiotic Resistance</a></td>
+<td align="center">0/1</td>
+<td align="center">___/10</td>
+<td>Not Started</td>
+</tr>
+<tr>
+<td colspan="4" align="right"><strong>Total Progress</strong></td>
+<td align="center"><strong>___/88</strong></td>
+<td><strong>___%</strong></td>
+</tr>
+</table>
+
+**Goal:** Score 80%+ on practice questions before taking the full test.
 
 ---
 
 ## What's Included in Every Lesson
 
-**Educational Content**
-- Key concepts explained clearly
-- Common mistakes to avoid (based on actual test patterns)
-- Visual diagrams and examples
-- Real-world applications
-- Quick reference cards for memorization
+<table>
+<tr>
+<td width="50%">
 
-**Practice & Assessment**
-- Multiple choice practice questions
-- Detailed answer explanations (expandable sections)
-- Video tutorial links embedded
-- Self-check quizzes for topic mastery
+### 📖 Educational Content
 
----
+✅ Key concepts explained clearly
+✅ Common mistakes to avoid
+✅ Visual diagrams & examples
+✅ Real-world applications
+✅ Memory tricks & mnemonics
+✅ Quick reference cards
 
-## Progress Tracking
+</td>
+<td width="50%">
 
-### Master Checklist
+### 🎯 Practice & Assessment
 
-| Done | Lesson | Score |
-|:----:|--------|-------|
-| ☐ | [1. Heat & Thermal Energy](./01_Heat_and_Thermal_Energy.md) | ___/8 |
-| ☐ | [2. Newton's Laws & Forces](./02_Newtons_Laws_and_Forces.md) | ___/10 |
-| ☐ | [3. EM Spectrum & Waves](./03_Electromagnetic_Spectrum_and_Waves.md) | ___/10 |
-| ☐ | [4. Light Interactions](./04_Light_Interactions.md) | ___/10 |
-| ☐ | [5. Genetics & DNA](./05_Genetics_and_DNA.md) | ___/10 |
-| ☐ | [6. Electric Charges](./06_Electric_Charges.md) | ___/10 |
-| ☐ | [7. Earth-Sun-Moon System](./07_Earth_Sun_Moon_System.md) | ___/10 |
-| ☐ | [8. Energy Conversions](./08_Energy_Conversions.md) | ___/10 |
-| ☐ | [9. Speed Calculations](./09_Speed_Calculations.md) | ___/10 |
-| ☐ | [10. Antibiotic Resistance](./10_Antibiotic_Resistance.md) | ___/10 |
-| | **Total Progress** | **___/88** |
+✅ Multiple choice questions
+✅ Detailed answer explanations
+✅ Video tutorials embedded
+✅ Self-check quizzes
+✅ Progress indicators
+✅ Step-by-step solutions
 
-**Target:** Score 80% or higher on practice questions before the full test.
+</td>
+</tr>
+</table>
 
 ---
 
 ## Study Tips
 
-**Effective Strategies**
-- Watch videos first for visual understanding
-- Take notes while reading lessons
-- Complete ALL practice questions (don't skip)
-- Read explanations for both correct AND incorrect answers
-- Create flashcards from Quick Reference Cards
-- Study consistently (daily practice is more effective than cramming)
-- Teach concepts to someone else to reinforce understanding
+<table>
+<tr>
+<td width="50%">
 
-**Common Pitfalls to Avoid**
-- Passive reading without active practice
+### ✅ Effective Strategies
+
+- Watch all videos first
+- Take detailed notes
+- Complete EVERY question
+- Review all explanations
+- Create flashcards
+- Study daily (consistency)
+- Teach concepts out loud
+- Use Quick Reference Cards
+
+</td>
+<td width="50%">
+
+### ⚠️ Avoid These Mistakes
+
+- Passive reading only
 - Skipping video tutorials
-- Rushing through lessons without understanding
-- Only reviewing questions you got wrong
-- Studying topics in random order instead of following priorities
-- Procrastinating until the last week
+- Rushing through content
+- Only reviewing wrong answers
+- Random study order
+- Cramming at last minute
+- Not tracking progress
+- Skipping practice
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Path to 90%
+## Path to Success
 
-**Current Performance:** ~75-80%
-**Target:** 90%
-**Improvement Needed:** +10-15 percentage points
+```
+Current: 75-80%
+    ↓
+Master Lessons 1-3 (High Priority) → +10 points
+    ↓
+Complete All 88 Practice Questions → +3-5 points
+    ↓
+Full Practice Tests & Review → +2-3 points
+    ↓
+Target: 90% Achievement ✓
+```
 
-**How to Close the Gap:**
-1. Master Top 3 Topics (Lessons 1-3) → +10 points
-2. Complete All 88 Practice Questions → +3-5 points
-3. Take Full Practice Tests → +2-3 points
-
-**This is achievable with the 2-3 week study plan.**
-
----
-
-## Quick Links
-
-**All Lessons**
-- [Lesson 1: Heat](./01_Heat_and_Thermal_Energy.md) • [Lesson 2: Newton's Laws](./02_Newtons_Laws_and_Forces.md) • [Lesson 3: EM Spectrum](./03_Electromagnetic_Spectrum_and_Waves.md)
-- [Lesson 4: Light](./04_Light_Interactions.md) • [Lesson 5: Earth Science](./07_Earth_Sun_Moon_System.md) • [Lesson 6: Energy](./08_Energy_Conversions.md) • [Lesson 7: Speed](./09_Speed_Calculations.md)
-- [Lesson 8: Genetics](./05_Genetics_and_DNA.md) • [Lesson 9: Charges](./06_Electric_Charges.md) • [Lesson 10: Resistance](./10_Antibiotic_Resistance.md)
-
-**Main Resources**
-- [Home Page](../README.md)
-- [Complete Analysis Summary](../ROSS_ANALYSIS_SUMMARY.md)
-- [Test Results CSV](../Ross'%20Test%20Results%20G8%20Science%20for%20Analysis%20-%20Sheet1.csv)
+**Timeline:** 2-3 weeks | **Daily:** 60-90 minutes
 
 ---
 
-**Ready to start? Begin with [Lesson 1: Heat & Thermal Energy →](./01_Heat_and_Thermal_Energy.md)**
+<p align="center">
+<strong>Ready to start? Begin with <a href="./01_Heat_and_Thermal_Energy.md">Lesson 1: Heat & Thermal Energy →</a></strong>
+</p>
+
+</td>
+</tr>
+</table>
