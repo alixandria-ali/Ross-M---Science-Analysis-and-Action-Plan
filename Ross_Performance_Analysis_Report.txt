@@ -1,0 +1,187 @@
+================================================================================
+ROSS'S GRADE 8 SCIENCE PERFORMANCE ANALYSIS
+================================================================================
+
+TOTAL QUESTIONS ANSWERED INCORRECTLY: 40
+
+ERRORS BY TEST:
+  Test 8.10: 11 incorrect answers
+  Test 8.11: 6 incorrect answers
+  Test 8.12: 5 incorrect answers
+  Test 8.13: 4 incorrect answers
+  Test 8.14: 4 incorrect answers
+  Test 8.15: 4 incorrect answers
+  Test 8.16: 6 incorrect answers
+
+================================================================================
+ERROR ANALYSIS BY TOPIC AREA
+================================================================================
+
+
+HEAT & THERMAL ENERGY
+------------------------------------------------------------
+Number of errors: 8
+Questions: 8.10-Q13, 8.10-Q14, 8.10-Q26, 8.11-Q13, 8.12-Q13, 8.13-Q14, 8.14-Q18, 8.16-Q37
+
+NEWTON'S LAWS / FORCE & MOTION
+------------------------------------------------------------
+Number of errors: 7
+Questions: 8.10-Q10, 8.10-Q12, 8.13-Q16, 8.14-Q10, 8.14-Q16, 8.15-Q11, 8.15-Q16
+
+ELECTROMAGNETIC SPECTRUM & WAVES
+------------------------------------------------------------
+Number of errors: 5
+Questions: 8.10-Q21, 8.10-Q44, 8.11-Q21, 8.12-Q23, 8.16-Q19
+
+LIGHT INTERACTIONS
+------------------------------------------------------------
+Number of errors: 5
+Questions: 8.10-Q24, 8.10-Q45, 8.11-Q23, 8.12-Q29, 8.13-Q24
+
+OTHER
+------------------------------------------------------------
+Number of errors: 5
+Questions: 8.13-Q26, 8.15-Q17, 8.16-Q24, 8.16-Q31, 8.16-Q41
+
+EARTH SCIENCE (ORBITS/SEASONS)
+------------------------------------------------------------
+Number of errors: 4
+Questions: 8.11-Q33, 8.12-Q28, 8.12-Q30, 8.14-Q30
+
+GENETICS & DNA
+------------------------------------------------------------
+Number of errors: 3
+Questions: 8.10-Q3, 8.10-Q7, 8.11-Q2
+
+ELECTRIC CHARGES
+------------------------------------------------------------
+Number of errors: 3
+Questions: 8.11-Q19, 8.15-Q20, 8.16-Q40
+
+
+================================================================================
+CRITICAL WEAK SPOTS - PRIORITY AREAS FOR IMPROVEMENT
+================================================================================
+
+1. Heat & Thermal Energy (8 errors)
+2. Newton's Laws / Force & Motion (7 errors)
+3. Electromagnetic Spectrum & Waves (5 errors)
+
+
+================================================================================
+DETAILED RECOMMENDATIONS TO REACH 90% ON NEXT TEST
+================================================================================
+
+
+HEAT & THERMAL ENERGY (STUDY PLAN)
+------------------------------------------------------------
+- Learn that heat ALWAYS flows from hot to cold (never the reverse)
+- Understand that objects absorb thermal energy from warmer surroundings
+- Study how temperature difference affects the rate of heat transfer
+- Review evaporative cooling: evaporation removes thermal energy
+- Practice identifying the direction of heat flow in various scenarios
+
+
+NEWTON'S LAWS / FORCE & MOTION (STUDY PLAN)
+------------------------------------------------------------
+- Review Newton's Three Laws of Motion thoroughly
+- Practice problems involving F=ma (Force = mass x acceleration)
+- Understand that greater mass = less acceleration when force is constant
+- Study Newton's Third Law: forces always occur in equal and opposite pairs
+- Work on problems comparing objects with different masses
+
+
+ELECTROMAGNETIC SPECTRUM & WAVES (STUDY PLAN)
+------------------------------------------------------------
+- Memorize the EM spectrum order: Radio > Microwave > Infrared > Visible > Ultraviolet > X-ray > Gamma
+- Remember: Radio waves have LONGEST wavelength, Gamma rays have SHORTEST
+- Understand amplitude-energy relationship: higher amplitude = more energy
+- Study properties of different types of waves and their uses
+
+
+LIGHT INTERACTIONS (STUDY PLAN)
+------------------------------------------------------------
+- Clearly distinguish between four light behaviors:
+  * REFLECTION: light bounces off surfaces (mirrors)
+  * TRANSMISSION: light passes through materials (clear glass)
+  * ABSORPTION: light is taken in by materials (dark surfaces)
+  * REFRACTION: light bends when entering different materials
+- Practice identifying which process occurs in different scenarios
+
+
+EARTH SCIENCE (ORBITS/SEASONS) (STUDY PLAN)
+------------------------------------------------------------
+- Study Earth's tilt and how it causes seasons
+- Learn which hemisphere has summer/winter at different orbital positions
+- Understand moon phases: half the Moon facing Sun is always illuminated
+- Practice comparing planetary distances and orbital relationships
+- Review scale and proportional reasoning with astronomical distances
+
+
+GENETICS & DNA (STUDY PLAN)
+------------------------------------------------------------
+- Review DNA > RNA > Protein (central dogma of biology)
+- Understand that mutations in DNA can change protein structure/function
+- Learn genotype notation: AA or aa = homozygous, Aa = heterozygous
+- Study how genetic changes affect organisms
+
+
+ELECTRIC CHARGES (STUDY PLAN)
+------------------------------------------------------------
+- Master the fundamental rule: LIKE charges REPEL, OPPOSITE charges ATTRACT
+- Remember: same charge (both positive or both negative) = repulsion
+- Study how objects gain charge through friction (rubbing)
+
+
+================================================================================
+STUDY STRATEGY TO ACHIEVE 90% ON NEXT TEST
+================================================================================
+
+1. PRIORITIZE THE TOP 3 WEAK SPOTS
+   Focus 60% of study time on the three most problematic areas
+
+2. USE ACTIVE RECALL AND PRACTICE PROBLEMS
+   - Don't just read notes - solve practice problems
+   - Quiz yourself on key concepts
+   - Explain concepts out loud to reinforce understanding
+
+3. CREATE CONCEPT SUMMARY SHEETS
+   - Make one-page summaries for each topic area
+   - Include key formulas, definitions, and rules
+   - Use diagrams and visual aids
+
+4. FOCUS ON CONCEPTUAL UNDERSTANDING, NOT MEMORIZATION
+   - Understand WHY things happen, not just WHAT happens
+   - Connect concepts across different topics
+   - Ask 'why' questions about each concept
+
+5. REVIEW THESE SPECIFIC MISSED QUESTIONS
+   - Go back to each question in the CSV
+   - Read the correct answer and understand why it's correct
+   - Understand why the chosen answer was wrong
+
+6. TAKE PRACTICE TESTS UNDER TIMED CONDITIONS
+   - Simulate test conditions
+   - Review ALL questions, even ones answered correctly
+   - Focus on understanding, not just getting the right answer
+
+================================================================================
+QUICK REFERENCE - KEY FACTS TO MEMORIZE
+================================================================================
+
+* Heat flows from HOT to COLD (never cold to hot)
+* F = ma (more mass = less acceleration with same force)
+* Newton's 3rd Law: Equal and opposite forces ALWAYS
+* EM Spectrum: Radio (longest) > Gamma (shortest)
+* Light bounces off mirror = REFLECTION
+* Light passes through glass = TRANSMISSION
+* Higher wave amplitude = MORE energy
+* LIKE charges REPEL, OPPOSITE charges ATTRACT
+* Heterozygous = Aa (different alleles)
+* Homozygous = AA or aa (same alleles)
+* Evaporation ABSORBS thermal energy (cooling effect)
+* Half the Moon facing the Sun is ALWAYS illuminated
+
+================================================================================
+END OF ANALYSIS
+================================================================================

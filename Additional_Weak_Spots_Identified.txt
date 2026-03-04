@@ -1,0 +1,160 @@
+================================================================================
+ADDITIONAL SPECIFIC WEAK SPOTS IDENTIFIED IN ROSS'S PERFORMANCE
+================================================================================
+
+Beyond the major topic areas (Heat, Newton's Laws, EM Spectrum), Ross shows these
+specific skill deficits that need targeted attention:
+
+================================================================================
+1. DATA INTERPRETATION & ANALYSIS
+================================================================================
+
+Problem Areas:
+- Question 8.13-Q26: Makes unsupported assumptions from data rather than
+  analyzing what's directly shown
+- Question 8.16-Q31: Struggles with calculating/comparing average speed from
+  table data
+
+What's Wrong:
+- Ross jumps to conclusions not supported by the data (chose "industrial growth"
+  when data only showed population + total consumption increased)
+- Doesn't properly calculate average speed (distance/time) from data tables
+- Makes inferences beyond what data actually proves
+
+What Ross Needs to Do:
+✓ Practice analyzing data tables and graphs
+✓ Only draw conclusions DIRECTLY supported by the data shown
+✓ Practice speed calculations: Speed = Distance ÷ Time
+✓ Learn to distinguish between "what the data shows" vs. "what might explain it"
+✓ Always calculate before choosing an answer on quantitative questions
+
+================================================================================
+2. READING COMPREHENSION & PASSAGE-BASED QUESTIONS
+================================================================================
+
+Problem Area:
+- Question 8.16-Q24: Doesn't carefully read passage details about San Joaquin
+  kit fox and biodiversity
+
+What's Wrong:
+- Chose "urbanization" as cause of biodiversity loss
+- Correct answer was "habitat loss from agriculture"
+- This info was IN the passage but Ross didn't identify the specific evidence
+
+What Ross Needs to Do:
+✓ Underline or highlight key information in passages while reading
+✓ Match answer choices back to SPECIFIC sentences in the passage
+✓ Don't rely on general knowledge - use the passage text
+✓ Look for evidence-based answers, not assumptions
+✓ Practice reading science passages and identifying supporting evidence
+
+================================================================================
+3. ENERGY CONVERSIONS & CALCULATIONS
+================================================================================
+
+Problem Area:
+- Question 8.15-Q17: Confuses potential-to-kinetic energy conversion
+
+What's Wrong:
+- Chose position 4 (LOW height) when asked which gives GREATEST kinetic energy
+  at impact
+- Correct answer: position 1 (HIGHEST height)
+- Fundamental misunderstanding: Higher position = MORE potential energy =
+  MORE kinetic energy when it falls
+
+What Ross Needs to Do:
+✓ Review energy conservation principle
+✓ Understand: Potential Energy (PE) = mass × gravity × HEIGHT
+✓ Learn: Higher starting position = more PE = converts to more KE at bottom
+✓ Practice problems with dropping objects from different heights
+✓ Remember: Energy transforms but total stays the same (PE → KE)
+
+Key Rule to Memorize:
+"The higher you lift something, the more potential energy it has, and the
+faster it will be moving (more kinetic energy) when it falls."
+
+================================================================================
+4. BIOLOGY CONCEPTS - ANTIBIOTIC RESISTANCE
+================================================================================
+
+Problem Area:
+- Question 8.16-Q41: Misunderstands antibiotic resistance percentages
+
+What's Wrong:
+- Chose Population 3 when asked which would have MOST survivors after
+  Antibiotic S
+- Correct answer: Population 4 (highest resistance percentage)
+- Doesn't understand: HIGHER resistance % = MORE bacteria survive antibiotic
+
+What Ross Needs to Do:
+✓ Review natural selection and antibiotic resistance
+✓ Understand: Resistant bacteria SURVIVE when antibiotic is applied
+✓ Higher resistance % = more individuals survive = more survivors
+✓ Practice interpreting percentages in biological contexts
+✓ Think through: "If 90% are resistant, 90% survive the antibiotic"
+
+Key Concept:
+Antibiotic resistance = survival advantage
+More resistant = more survive = higher resistance % wins
+
+================================================================================
+UPDATED PRIORITY LIST FOR ROSS
+================================================================================
+
+HIGH PRIORITY (Major Topic Areas - 50% of errors):
+1. Heat & Thermal Energy (8 errors)
+2. Newton's Laws / Force & Motion (7 errors)
+3. Electromagnetic Spectrum & Waves (5 errors)
+
+MEDIUM PRIORITY (Skill Gaps - affecting multiple questions):
+4. Data Interpretation & Calculations (affects science across all topics)
+5. Reading Comprehension for Science Passages (critical test-taking skill)
+6. Energy Conversions & Transformations (physics foundation)
+
+SPECIFIC CONCEPTS TO REVIEW:
+7. Antibiotic resistance (natural selection application)
+8. Speed calculations (distance/time)
+9. Evidence-based reasoning from text
+
+================================================================================
+PRACTICE RECOMMENDATIONS
+================================================================================
+
+For Data Interpretation:
+- Work through 10 practice problems with data tables
+- Focus on: calculating averages, comparing values, identifying trends
+- Practice saying "What does this data ACTUALLY show?" vs. "What might explain it?"
+
+For Reading Comprehension:
+- Take 5 science passages and practice highlighting evidence
+- For each question, write down which sentence supports the answer
+- Practice distinguishing between "passage says" vs. "I think"
+
+For Energy Conversions:
+- Draw diagrams showing PE high at top, KE high at bottom
+- Practice 10 problems with different starting heights
+- Calculate PE = mgh and KE = 1/2mv² for comparison
+
+For Antibiotic Resistance:
+- Review what resistance means (bacteria survives drug)
+- Practice interpreting percentage tables
+- Understand natural selection favors resistant organisms
+
+================================================================================
+TESTING STRATEGY
+================================================================================
+
+Before answering ANY question, Ross should:
+
+1. For DATA questions: Calculate before choosing (don't estimate)
+2. For PASSAGE questions: Find the sentence that proves the answer
+3. For ENERGY questions: Identify if PE or KE, and what affects it
+4. For PERCENTAGE questions: Think through what the % actually represents
+
+Key mindset shift needed:
+- Less guessing based on "sounds right"
+- More systematic analysis of what's actually asked and shown
+
+================================================================================
+END OF ADDITIONAL ANALYSIS
+================================================================================
