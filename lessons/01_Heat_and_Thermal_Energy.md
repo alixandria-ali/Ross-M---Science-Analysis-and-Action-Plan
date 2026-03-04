@@ -1,6 +1,20 @@
 # Heat & Thermal Energy 🔥❄️
 
-**Priority Level:** 🔴 HIGH (8 questions - 20% of review opportunities)
+<div align="center">
+
+![Priority](https://img.shields.io/badge/Priority-HIGH-red?style=flat-square)
+![Questions](https://img.shields.io/badge/Practice_Questions-8-blue?style=flat-square)
+![Videos](https://img.shields.io/badge/Video_Tutorials-3-green?style=flat-square)
+![Impact](https://img.shields.io/badge/Impact-20%25-orange?style=flat-square)
+
+</div>
+
+---
+
+## 🧭 Navigation
+
+| [🏠 Home](../README.md) | [📚 Lessons Index](./00_LESSONS_INDEX.md) | [⬅️ Previous](./00_LESSONS_INDEX.md) | [Next ➡️](./02_Newtons_Laws_and_Forces.md) |
+|:---:|:---:|:---:|:---:|
 
 ---
 
