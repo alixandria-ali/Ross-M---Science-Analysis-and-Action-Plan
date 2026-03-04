@@ -1,5 +1,7 @@
 # Electromagnetic Spectrum & Waves 🌈📡
 
+[← Previous: Newton's Laws](./02_Newtons_Laws_and_Forces.md) | [All Lessons](./00_LESSONS_INDEX.md) | [Next: Light Interactions →](./04_Light_Interactions.md)
+
 **Priority Level:** 🔴 HIGH (5 questions - 12.5% of review opportunities)
 
 ---

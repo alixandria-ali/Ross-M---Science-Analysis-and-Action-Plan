@@ -1,5 +1,7 @@
 # Light Interactions 💡🔦
 
+[← Previous: EM Spectrum & Waves](./03_Electromagnetic_Spectrum_and_Waves.md) | [All Lessons](./00_LESSONS_INDEX.md) | [Next: Genetics & DNA →](./05_Genetics_and_DNA.md)
+
 **Priority Level:** 🟡 MEDIUM (5 questions - 12.5% of review opportunities)
 
 ---

@@ -1,5 +1,7 @@
 # Antibiotic Resistance & Natural Selection 🦠💊
 
+[← Previous: Speed Calculations](./09_Speed_Calculations.md) | [All Lessons](./00_LESSONS_INDEX.md)
+
 **Priority Level:** 🟢 REVIEW (Important evolution/biology concept)
 
 ---

@@ -1,5 +1,7 @@
 # Earth-Sun-Moon System & Seasons 🌍🌞🌙
 
+[← Previous: Electric Charges](./06_Electric_Charges.md) | [All Lessons](./00_LESSONS_INDEX.md) | [Next: Energy Conversions →](./08_Energy_Conversions.md)
+
 **Priority Level:** 🟡 MEDIUM (4 questions - 10% of review opportunities)
 
 ---

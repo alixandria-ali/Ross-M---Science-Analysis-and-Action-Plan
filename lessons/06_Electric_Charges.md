@@ -1,5 +1,7 @@
 # Electric Charges ⚡
 
+[← Previous: Genetics & DNA](./05_Genetics_and_DNA.md) | [All Lessons](./00_LESSONS_INDEX.md) | [Next: Earth-Sun-Moon System →](./07_Earth_Sun_Moon_System.md)
+
 **Priority Level:** 🟢 REVIEW (3 questions - 7.5% of review opportunities)
 
 ---

@@ -1,5 +1,7 @@
 # Speed Calculations & Data Interpretation 📊🏃
 
+[← Previous: Energy Conversions](./08_Energy_Conversions.md) | [All Lessons](./00_LESSONS_INDEX.md) | [Next: Antibiotic Resistance →](./10_Antibiotic_Resistance.md)
+
 **Priority Level:** 🟡 MEDIUM (Important skill for multiple questions)
 
 ---

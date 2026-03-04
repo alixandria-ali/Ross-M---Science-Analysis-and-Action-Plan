@@ -1,5 +1,7 @@
 # Genetics & DNA 🧬
 
+[← Previous: Light Interactions](./04_Light_Interactions.md) | [All Lessons](./00_LESSONS_INDEX.md) | [Next: Electric Charges →](./06_Electric_Charges.md)
+
 **Priority Level:** 🟢 REVIEW (3 questions - 7.5% of review opportunities)
 
 ---

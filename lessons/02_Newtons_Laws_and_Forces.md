@@ -1,5 +1,7 @@
 # Newton's Laws & Forces 🚀
 
+[← Previous: Heat & Thermal Energy](./01_Heat_and_Thermal_Energy.md) | [All Lessons](./00_LESSONS_INDEX.md) | [Next: EM Spectrum & Waves →](./03_Electromagnetic_Spectrum_and_Waves.md)
+
 **Priority Level:** 🔴 HIGH (7 questions - 17.5% of review opportunities)
 
 ---

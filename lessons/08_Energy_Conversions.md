@@ -1,5 +1,7 @@
 # Energy Conversions (Potential ↔ Kinetic) ⚡🎢
 
+[← Previous: Earth-Sun-Moon System](./07_Earth_Sun_Moon_System.md) | [All Lessons](./00_LESSONS_INDEX.md) | [Next: Speed Calculations →](./09_Speed_Calculations.md)
+
 **Priority Level:** 🟡 MEDIUM (Addresses specific misconceptions)
 
 ---

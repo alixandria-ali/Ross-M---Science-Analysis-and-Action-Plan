@@ -1,19 +1,6 @@
-# Lesson 1: Heat & Thermal Energy 🔥❄️
+# Heat & Thermal Energy
 
-**Priority:** 🔴 High | **8 Practice Questions** | **3 Video Tutorials** | **20% Impact**
-
----
-
-## 🔗 Navigation
-
-**Quick Links**
-- [← All Lessons](./00_LESSONS_INDEX.md) | [Home](../README.md) | [Next: Lesson 2 →](./02_Newtons_Laws_and_Forces.md)
-
-**Other High Priority Lessons**
-- Lesson 1 (Current) | [Lesson 2: Newton's Laws](./02_Newtons_Laws_and_Forces.md) | [Lesson 3: EM Spectrum](./03_Electromagnetic_Spectrum_and_Waves.md)
-
-**This Lesson Sections**
-- [Key Concepts](#key-concepts-to-master) | [Videos](#-video-resources) | [Common Mistakes](#common-mistakes-to-avoid) | [Practice Questions](#practice-questions) | [Quick Reference](#quick-reference-card) | [Self-Check](#self-check-quiz)
+[← All Lessons](./00_LESSONS_INDEX.md) | [Next: Newton's Laws →](./02_Newtons_Laws_and_Forces.md)
 
 ---
 
