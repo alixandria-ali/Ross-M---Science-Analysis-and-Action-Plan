@@ -1,57 +1,19 @@
-<table>
-<tr>
-<td width="250" valign="top">
+# Lesson 1: Heat & Thermal Energy 🔥❄️
 
-## 📚 Menu
-
-### Navigation
-- [🏠 Home](../README.md)
-- [📚 All Lessons](./00_LESSONS_INDEX.md)
-- [📊 Analysis](../ROSS_ANALYSIS_SUMMARY.md)
-- [← Prev: Index](./00_LESSONS_INDEX.md)
-- [Next: Lesson 2 →](./02_Newtons_Laws_and_Forces.md)
-
-### This Lesson
-- [Key Concepts](#key-concepts-to-master)
-- [Video Resources](#-video-resources)
-- [Common Mistakes](#common-mistakes-to-avoid)
-- [Practice Questions](#practice-questions)
-- [Quick Reference](#quick-reference-card)
-- [Self-Check](#self-check-quiz)
-
-### High Priority 🔴
-- **[1. Heat & Energy](#) ✓**
-- [2. Newton's Laws](./02_Newtons_Laws_and_Forces.md)
-- [3. EM Spectrum](./03_Electromagnetic_Spectrum_and_Waves.md)
-
-### Medium Priority 🟡
-- [4. Light Interactions](./04_Light_Interactions.md)
-- [5. Earth-Sun-Moon](./07_Earth_Sun_Moon_System.md)
-- [6. Energy Conversions](./08_Energy_Conversions.md)
-- [7. Speed Calculations](./09_Speed_Calculations.md)
-
-### Review 🟢
-- [8. Genetics & DNA](./05_Genetics_and_DNA.md)
-- [9. Electric Charges](./06_Electric_Charges.md)
-- [10. Antibiotic Resistance](./10_Antibiotic_Resistance.md)
+**Priority:** 🔴 High | **8 Practice Questions** | **3 Video Tutorials** | **20% Impact**
 
 ---
 
-### Lesson Info
+## 🔗 Navigation
 
-```
-Priority: 🔴 High
-Questions: 8 (20%)
-Videos: 3
-Time: 60-90 min
-```
+**Quick Links**
+- [← All Lessons](./00_LESSONS_INDEX.md) | [Home](../README.md) | [Next: Lesson 2 →](./02_Newtons_Laws_and_Forces.md)
 
-</td>
-<td valign="top">
+**Other High Priority Lessons**
+- Lesson 1 (Current) | [Lesson 2: Newton's Laws](./02_Newtons_Laws_and_Forces.md) | [Lesson 3: EM Spectrum](./03_Electromagnetic_Spectrum_and_Waves.md)
 
-# Lesson 1: Heat & Thermal Energy 🔥❄️
-
-> **Priority:** 🔴 High | **8 Questions** | **3 Videos** | **20% Impact**
+**This Lesson Sections**
+- [Key Concepts](#key-concepts-to-master) | [Videos](#-video-resources) | [Common Mistakes](#common-mistakes-to-avoid) | [Practice Questions](#practice-questions) | [Quick Reference](#quick-reference-card) | [Self-Check](#self-check-quiz)
 
 ---
 
@@ -286,6 +248,4 @@ Before moving to the next topic, make sure you can answer YES to these:
 
 **Next Steps:** Once you've mastered this topic, continue to [Lesson 2: Newton's Laws & Forces →](./02_Newtons_Laws_and_Forces.md)
 
-</td>
-</tr>
-</table>
+[← Back to All Lessons](./00_LESSONS_INDEX.md) | [Home](../README.md)
