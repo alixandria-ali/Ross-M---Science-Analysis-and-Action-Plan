@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      display: flex;
+      min-height: 100vh;
+    }
+
+    /* Left Sidebar */
+    .sidebar {
+      width: 280px;
+      background: #2c3e50;
+      color: #ecf0f1;
+      padding: 20px;
+      position: fixed;
+      height: 100vh;
+      overflow-y: auto;
+      left: 0;
+      top: 0;
+    }
+
+    .sidebar h1 {
+      font-size: 1.5em;
+      margin-bottom: 10px;
+      color: #3498db;
+    }
+
+    .sidebar h2 {
+      font-size: 1.2em;
+      margin-top: 20px;
+      margin-bottom: 10px;
+      color: #e74c3c;
+      border-bottom: 2px solid #e74c3c;
+      padding-bottom: 5px;
+    }
+
+    .sidebar h3 {
+      font-size: 1em;
+      margin-top: 15px;
+      margin-bottom: 8px;
+      color: #f39c12;
+    }
+
+    .sidebar ul {
+      list-style: none;
+      margin-bottom: 15px;
+    }
+
+    .sidebar ul li {
+      margin: 8px 0;
+    }
+
+    .sidebar a {
+      color: #ecf0f1;
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+
+    .sidebar a:hover {
+      color: #3498db;
+      text-decoration: underline;
+    }
+
+    /* Main Content Area */
+    .content {
+      margin-left: 280px;
+      padding: 40px 60px;
+      width: calc(100% - 280px);
+      max-width: 1200px;
+    }
+
+    .content h1 {
+      color: #2c3e50;
+      margin-bottom: 20px;
+      font-size: 2.5em;
+    }
+
+    .content h2 {
+      color: #34495e;
+      margin-top: 30px;
+      margin-bottom: 15px;
+      font-size: 2em;
+      border-bottom: 3px solid #3498db;
+      padding-bottom: 10px;
+    }
+
+    .content h3 {
+      color: #34495e;
+      margin-top: 25px;
+      margin-bottom: 12px;
+      font-size: 1.5em;
+    }
+
+    .content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+
+    .content th,
+    .content td {
+      padding: 12px;
+      text-align: left;
+      border: 1px solid #ddd;
+    }
+
+    .content th {
+      background: #3498db;
+      color: white;
+      font-weight: 600;
+    }
+
+    .content tr:nth-child(even) {
+      background: #f9f9f9;
+    }
+
+    .content a {
+      color: #3498db;
+      text-decoration: none;
+    }
+
+    .content a:hover {
+      text-decoration: underline;
+    }
+
+    .content code {
+      background: #f4f4f4;
+      padding: 2px 6px;
+      border-radius: 3px;
+      font-family: 'Courier New', monospace;
+    }
+
+    .content pre {
+      background: #f4f4f4;
+      padding: 15px;
+      border-radius: 5px;
+      overflow-x: auto;
+      margin: 15px 0;
+    }
+
+    .content blockquote {
+      border-left: 4px solid #3498db;
+      padding-left: 20px;
+      margin: 20px 0;
+      color: #555;
+      font-style: italic;
+    }
+
+    details {
+      margin: 15px 0;
+      padding: 15px;
+      background: #f8f9fa;
+      border-radius: 5px;
+      border-left: 4px solid #3498db;
+    }
+
+    summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #2c3e50;
+    }
+
+    summary:hover {
+      color: #3498db;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+      }
+
+      .content {
+        margin-left: 0;
+        width: 100%;
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Left Sidebar Navigation -->
+  <nav class="sidebar">
+    <h1>{{ site.title }}</h1>
+    <p style="font-size: 0.9em; margin-bottom: 20px;">{{ site.description }}</p>
+
+    <h2>📊 Main</h2>
+    <ul>
+      <li><a href="{{ site.baseurl }}/">🏠 Home</a></li>
+      <li><a href="{{ site.baseurl }}/ROSS_ANALYSIS_SUMMARY">📈 Analysis Summary</a></li>
+      <li><a href="{{ site.baseurl }}/lessons/00_LESSONS_INDEX">📚 All Lessons</a></li>
+    </ul>
+
+    <h2>🔴 High Priority</h2>
+    <ul>
+      <li><a href="{{ site.baseurl }}/lessons/01_Heat_and_Thermal_Energy">Heat & Thermal Energy</a></li>
+      <li><a href="{{ site.baseurl }}/lessons/02_Newtons_Laws_and_Forces">Newton's Laws & Forces</a></li>
+      <li><a href="{{ site.baseurl }}/lessons/03_Electromagnetic_Spectrum_and_Waves">EM Spectrum & Waves</a></li>
+    </ul>
+
+    <h2>🟡 Medium Priority</h2>
+    <ul>
+      <li><a href="{{ site.baseurl }}/lessons/04_Light_Interactions">Light Interactions</a></li>
+      <li><a href="{{ site.baseurl }}/lessons/07_Earth_Sun_Moon_System">Earth-Sun-Moon System</a></li>
+      <li><a href="{{ site.baseurl }}/lessons/08_Energy_Conversions">Energy Conversions</a></li>
+      <li><a href="{{ site.baseurl }}/lessons/09_Speed_Calculations">Speed Calculations</a></li>
+    </ul>
+
+    <h2>🟢 Review</h2>
+    <ul>
+      <li><a href="{{ site.baseurl }}/lessons/05_Genetics_and_DNA">Genetics & DNA</a></li>
+      <li><a href="{{ site.baseurl }}/lessons/06_Electric_Charges">Electric Charges</a></li>
+      <li><a href="{{ site.baseurl }}/lessons/10_Antibiotic_Resistance">Antibiotic Resistance</a></li>
+    </ul>
+  </nav>
+
+  <!-- Main Content Area -->
+  <main class="content">
+    {{ content }}
+  </main>
+</body>
+</html>
