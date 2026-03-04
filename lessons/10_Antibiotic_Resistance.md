@@ -76,7 +76,11 @@ Examples of resistant bacteria: MRSA, drug-resistant TB, resistant E. coli
 ## 📺 Video Resources
 
 **Natural selection and antibiotic resistance**
-🔗 https://www.youtube.com/watch?v=plVk4NVIUh8
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/plVk4NVIUh8"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 ---
 

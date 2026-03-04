@@ -50,13 +50,25 @@ Think of ocean waves: Bigger waves (higher amplitude) have more energy and can d
 ## 📺 Video Resources
 
 **Electromagnetic spectrum overview**
-🔗 https://www.youtube.com/watch?v=m4zT7Ww6eU8
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/m4zT7Ww6eU8"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 **Wavelength, frequency, and energy relationships**
-🔗 https://www.youtube.com/watch?v=7Hk9jct2ozY
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7Hk9jct2ozY"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 **Wave amplitude and energy**
-🔗 https://www.youtube.com/watch?v=DpV0H4K9W5U
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DpV0H4K9W5U"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 ---
 

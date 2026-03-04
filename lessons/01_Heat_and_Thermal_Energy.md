@@ -30,13 +30,25 @@ When liquids evaporate, they ABSORB thermal energy from their surroundings, caus
 
 ### Heat Transfer Basics
 **Heat transfer basics (hot → cold)**
-🔗 https://www.youtube.com/watch?v=PhdWAd5cQ6k
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/PhdWAd5cQ6k"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 **Heat transfer and temperature difference**
-🔗 https://www.youtube.com/watch?v=Oqjxtx7q4qE
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Oqjxtx7q4qE"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 **Evaporative cooling**
-🔗 https://www.youtube.com/watch?v=fORvE-Wu9zM
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fORvE-Wu9zM"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 ---
 

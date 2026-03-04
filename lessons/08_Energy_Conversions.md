@@ -57,7 +57,11 @@ Think of a water slide:
 ## 📺 Video Resources
 
 **Potential → kinetic energy conversion**
-🔗 https://www.youtube.com/watch?v=whv9L0pHXGI
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/whv9L0pHXGI"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 ---
 

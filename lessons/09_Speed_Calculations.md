@@ -69,7 +69,11 @@ When given a table with distance and time data:
 ## 📺 Video Resources
 
 **Calculating speed from data**
-🔗 https://www.youtube.com/watch?v=Y6Kc3kXq1hA
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Y6Kc3kXq1hA"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 ---
 

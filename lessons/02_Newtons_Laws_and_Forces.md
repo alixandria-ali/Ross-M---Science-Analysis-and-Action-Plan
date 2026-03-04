@@ -33,15 +33,27 @@ For every action, there is an equal and opposite reaction.
 ## 📺 Video Resources
 
 **Newton's Second Law (F = ma)**
-🔗 https://www.youtube.com/watch?v=EwGGh1dC3kQ
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EwGGh1dC3kQ"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 Newton's second law | Khan Academy Physics
 
 **Newton's Second Law experiment explanation**
-🔗 https://www.youtube.com/watch?v=l_rw0RfS5x4
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/l_rw0RfS5x4"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 Newton's second law – effect of force and mass on acceleration
 
 **Solved examples using F = ma**
-🔗 https://www.youtube.com/watch?v=A-0EWBCxikg
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/A-0EWBCxikg"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 Finding force – Newton's second law examples
 
 ---

@@ -84,25 +84,45 @@ A **change** in the DNA sequence (like a typo in the genetic code)
 ### DNA → Protein Relationship
 
 **1. Genes, proteins, and traits**
-🔗 https://www.youtube.com/watch?v=tfZfLDRu39c
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tfZfLDRu39c"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 Khan Academy - Genes code for proteins
 
 **2. How mutations affect proteins**
-🔗 https://www.youtube.com/watch?v=_9wnC5pta78
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_9wnC5pta78"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 Khan Academy - Mutations | Inheritance and variation
 
 **3. Mutation effects on amino acids**
-🔗 https://www.youtube.com/watch?v=1Dk0_-fyyDI
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1Dk0_-fyyDI"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 Impact of mutations on translation into amino acids
 
 ### How Proteins Are Made
 
 **4. DNA → mRNA → protein (transcription)**
-🔗 https://www.youtube.com/watch?v=e42D9X59gQo
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/e42D9X59gQo"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 Transcription | DNA to protein overview
 
 **5. Translation (how proteins are built)**
-🔗 https://www.youtube.com/watch?v=Ibmy0obYZNA
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ibmy0obYZNA"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 Khan Academy - Translation
 
 ---

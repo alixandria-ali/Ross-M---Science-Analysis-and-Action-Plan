@@ -58,10 +58,18 @@ We see different phases because we see different amounts of the illuminated half
 ## 📺 Video Resources
 
 **Why seasons happen (Earth's tilt)**
-🔗 https://www.youtube.com/watch?v=WgHmqv_-UbQ
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WgHmqv_-UbQ"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 **Earth-Sun-Moon system and phases**
-🔗 https://www.youtube.com/watch?v=l-SkZ3sY6Go
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/l-SkZ3sY6Go"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 ---
 

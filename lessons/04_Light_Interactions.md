@@ -50,13 +50,25 @@
 ## 📺 Video Resources
 
 **Reflection vs refraction vs absorption**
-🔗 https://www.youtube.com/watch?v=O4R0zH7nqI8
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/O4R0zH7nqI8"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 **Refraction and light bending**
-🔗 https://www.youtube.com/watch?v=7kB9yT8hJpE
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7kB9yT8hJpE"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 **Transmission of light through materials**
-🔗 https://www.youtube.com/watch?v=R8mH1uFqz5k
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/R8mH1uFqz5k"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 ---
 

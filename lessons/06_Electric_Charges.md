@@ -43,7 +43,11 @@ Think of magnets: Same poles repel, opposite poles attract!
 ## 📺 Video Resources
 
 **Electric charge basics (repel vs attract)**
-🔗 https://www.youtube.com/watch?v=3F1d3QWsyk0
+<div style="margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3F1d3QWsyk0"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 ---
 
