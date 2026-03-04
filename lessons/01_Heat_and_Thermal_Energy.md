@@ -1,20 +1,16 @@
-# Heat & Thermal Energy 🔥❄️
+# Lesson 1: Heat & Thermal Energy
 
-<div align="center">
-
-![Priority](https://img.shields.io/badge/Priority-HIGH-red?style=flat-square)
-![Questions](https://img.shields.io/badge/Practice_Questions-8-blue?style=flat-square)
-![Videos](https://img.shields.io/badge/Video_Tutorials-3-green?style=flat-square)
-![Impact](https://img.shields.io/badge/Impact-20%25-orange?style=flat-square)
-
-</div>
+**Priority:** 🔴 High | **Questions:** 8 | **Videos:** 3 | **Impact:** 20%
 
 ---
 
-## 🧭 Navigation
+## Navigation
 
-| [🏠 Home](../README.md) | [📚 Lessons Index](./00_LESSONS_INDEX.md) | [⬅️ Previous](./00_LESSONS_INDEX.md) | [Next ➡️](./02_Newtons_Laws_and_Forces.md) |
-|:---:|:---:|:---:|:---:|
+**Lessons:** [Index](./00_LESSONS_INDEX.md) | [← Prev](./00_LESSONS_INDEX.md) | [Next →](./02_Newtons_Laws_and_Forces.md)
+
+**Main:** [Home](../README.md) | [Analysis](../ROSS_ANALYSIS_SUMMARY.md) | [All Lessons](./00_LESSONS_INDEX.md)
+
+**Priority:** [Lesson 1 (Current)](#) | [Lesson 2](./02_Newtons_Laws_and_Forces.md) | [Lesson 3](./03_Electromagnetic_Spectrum_and_Waves.md)
 
 ---
 
