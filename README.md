@@ -44,6 +44,20 @@ Complete analysis of Grade 8 Science test performance with targeted study plan t
    - Antibiotic resistance concept
    - Practice recommendations for each skill area
 
+### 5. **📚 Lessons & Practice Questions** ⭐ NEW!
+   - **[Complete Lessons Index](./lessons/00_LESSONS_INDEX.md)** - Start here for interactive learning!
+   - **10 comprehensive lesson modules** with video resources and practice MCQs
+   - **88 practice questions** with detailed explanations
+   - **23 curated video resources** from Khan Academy and educational channels
+   - Topics organized by priority (High, Medium, Review)
+   - Each lesson includes:
+     - Clear explanations of key concepts
+     - Common mistakes to avoid
+     - Video tutorials
+     - Practice MCQs with detailed answers
+     - Quick reference cards
+     - Self-check quizzes
+
 ---
 
 ## 🎯 Top 3 Priority Areas (50% of opportunity)
@@ -155,9 +169,11 @@ This analysis provides:
 
 1. Read **ROSS_ANALYSIS_SUMMARY.md** for the complete action plan
 2. Review the **CSV file** to see specific insights for each question
-3. Create a study schedule based on Week 1-2 plan
-4. Start with Heat & Thermal Energy (biggest opportunity area)
-5. Track progress and celebrate small wins!
+3. **Start the interactive lessons**: Go to **[Lessons Index](./lessons/00_LESSONS_INDEX.md)**
+4. Begin with **[Lesson 1: Heat & Thermal Energy](./lessons/01_Heat_and_Thermal_Energy.md)** (biggest opportunity area)
+5. Watch videos, complete practice questions, and track your progress
+6. Follow the Week 1-2 study schedule in the lessons index
+7. Celebrate small wins as you master each topic!
 
 ---
 
